@@ -26,9 +26,9 @@
 }
 
 .locations, .amenities {
-    margin-left: 30px;
     height: 100%;
     width: 25%;
+    padding-left: 50px;
 }
 
 .filters div:first-child {
